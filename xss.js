@@ -1,4 +1,5 @@
 (function(){
+var _dd = document.getElementsByClassName("main-section");
 var _aa = _dd[0].parentElement;
 
 _aa.removeChild(_dd[0]);
